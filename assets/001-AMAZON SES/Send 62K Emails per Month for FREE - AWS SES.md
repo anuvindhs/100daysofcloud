@@ -1,5 +1,15 @@
 # DAY 1 - AMAZON SES
-#### Send 62K Emails per Month for FREE
+
+
+<h2 align="center">
+
+![Cover-SES](./assets/images/1/../../../../images/1/Cover-SES.jpg)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=anuvindhs/100daysofcloud/assets/001-AMAZON%SES)  [<img width="100" alt="portfolio_view" src=./assets/images/../../../images/tweetthis.png>](https://link.anuvindh.com/twitter/GFS-Moo-Github-tweet.html) [<img width="90" alt="portfolio_view" src=./assets/images/../../../images/GitHub.png>](https://github.com/anuvindhs/100daysofcloud)
+
+</h2>
+
+
 
 ## What is Amazon SES ?
 Amazon Simple Email Service (SES) is a cloud-based email service that provides cost-effective, flexible and scalable way for businesses of all sizes to keep in contact with their customers through email. In  ither words **Highly-scalable inbound and outbound email service**.
@@ -57,7 +67,10 @@ Goto **Amazon SES** >> **Verified identities** >> Then Click **Send test email**
 |![](./assets/images/../../../images/1/createSMTPcred.png)|- SMTP endpoint:email-smtp.ap-southeast-2.amazonaws.com </br> - Transport Layer Security : TLS - Required </br> - Port: 25, 587 or 2587  |
 | Click **Create SMTP credentials** & Create one| -You will be prompted with **Access key ID** & **Secret access key**|
 </br>
-Now You will be able to use AMAZON SES  for your app using **Access key ID** & **Secret access key**
+Now You will be able to use AMAZON SES  for your app using Access key ID & Secret access key 
+
+--------------------
+
 
 
 
