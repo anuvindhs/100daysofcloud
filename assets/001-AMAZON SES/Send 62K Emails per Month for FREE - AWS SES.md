@@ -1,0 +1,33 @@
+# DAY 1 - AMAZON SES
+#### Send 62K Emails per Month for FREE
+
+## What is Amazon SES ?
+Amazon Simple Email Service (SES) is a cloud-based email service that provides cost-effective, flexible and scalable way for businesses of all sizes to keep in contact with their customers through email. In  ither words **Highly-scalable inbound and outbound email service**.
+
+### What is the use cases ?**
+
+**SMTP Services**
+Amazon SES sends email using SMTP, which is the most common email protocol on the internet. 
+You can also send emails by using  diffrent  SMTP enabled programming languages and software.
+
+example : -
+#### How to Configure WordPress to Use SMTP For Sending Emails ?
+its easy now with AMAZON SES, you setup it with SMTP user name and password &  SMTP credentials which i will show you below.
+
+## Prerequisite
+- AWS Account with Access to AMAZON SES ( Administrative privilages)
+  
+## Setup SES for your Application
+
+###  Request for production access
+First things first, as AWS will give you initially a sandbox environment only- lets request a production access.
+
+**Step 1 - Once you sign in goto AMAZON SES dashboard**
+| Screenshots  |  instructions   |
+| ------------ | ------------ |
+| ![dashboard](./assets/images/../../../images/1/Dashboard.png) | - Click on to dash board and request production access. </br> - Now Choose your types of messages you plan on sending. </br> - your Website URL </br> - your Use case - Amazon doesnt like using their services for Spamming people so please donot use it for such cases.</br>- Acknowledge and Submit |
+
+
+
+
+
