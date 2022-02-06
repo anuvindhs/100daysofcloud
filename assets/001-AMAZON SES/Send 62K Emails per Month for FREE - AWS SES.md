@@ -41,16 +41,27 @@ First things first, as AWS will give you initially a sandbox environment only- l
 | ------------ | ------------ |
 | ![](./assets/../../images/1/DKIM-identified.png) </br> ![](./assets/images/1/../../../../images/1/DNS-records.png) | - Click on to View DNS records. </br> - Update details on your Domain registrants. </br>  - Once ✅ Verified you will be able to use the SES on that specified domain | 
 
-#### Step 4 - Simple Mail Transfer Protocol (SMTP) settings & SMTP Credentials.
-| Screenshots  |  instructions   |
-| ------------ | ------------ |
-|![](./assets/images/../../../images/1/createSMTPcred.png)|- SMTP endpoint:email-smtp.ap-southeast-2.amazonaws.com </br> - Transport Layer Security : TLS - Required </br> - Port: 25, 587 or 2587  </br> - Click **Create SMTP credentials** & Create one|
-
-#### Step 5 - Test your Setup
+#### Step 4 - Test your Setup
+Goto **Amazon SES** >> **Verified identities** >> Then Click **Send test email**
 
 | Screenshots  |  instructions   |
 | ------------ | ------------ |
-|||
+| ![](./assets/images/1/../../../../images/1/TEST-SMTP.png) | - Type From-address </br> - Scenario : Custom </br> - Subject : Enter a message for subject </br> - Body : A message </br> - Click **Send test  email** |
+|![](./assets/images/1/../../../../images/1/Test-email-result.png)| - Check your email, you will  be able to see the test mail deliverd to your address |
+
+
+
+#### Step 5 - Simple Mail Transfer Protocol (SMTP) settings & SMTP Credentials for your app.
+| Screenshots  |  instructions   |
+| ------------ | ------------ |
+|![](./assets/images/../../../images/1/createSMTPcred.png)|- SMTP endpoint:email-smtp.ap-southeast-2.amazonaws.com </br> - Transport Layer Security : TLS - Required </br> - Port: 25, 587 or 2587  |
+| Click **Create SMTP credentials** & Create one| -You will be prompted with **Access key ID** & **Secret access key**|
+</br>
+Now You will be able to use AMAZON SES  for your app using **Access key ID** & **Secret access key**
+
+
+
+
 
 
 
