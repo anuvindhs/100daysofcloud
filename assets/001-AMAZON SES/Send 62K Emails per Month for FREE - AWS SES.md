@@ -5,7 +5,7 @@
 
 ![Cover-SES](./assets/images/1/../../../../images/1/Cover-SES.jpg)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=anuvindhs/100daysofcloud/assets/001-AMAZON%SES)  [<img width="100" alt="portfolio_view" src=./assets/images/../../../images/tweetthis.png>](https://link.anuvindh.com/twitter/GFS-Moo-Github-tweet.html) [<img width="90" alt="portfolio_view" src=./assets/images/../../../images/GitHub.png>](https://github.com/anuvindhs/100daysofcloud)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=anuvindhs/100daysofcloud/assets/001-AMAZON%SES)  [<img width="100" alt="portfolio_view" src=./assets/images/../../../images/tweetthis.png>](https://link.anuvindh.com/twitter/DAY-1-AMAZON-SES-tweet.html [<img width="90" alt="portfolio_view" src=./assets/images/../../../images/GitHub.png>](https://github.com/anuvindhs/100daysofcloud)
 
 </h2>
 
