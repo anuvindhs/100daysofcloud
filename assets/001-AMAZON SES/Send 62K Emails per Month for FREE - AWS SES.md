@@ -27,6 +27,16 @@ First things first, as AWS will give you initially a sandbox environment only- l
 | ------------ | ------------ |
 | ![dashboard](./assets/images/../../../images/1/Dashboard.png) | - Click on to dash board and request production access. </br> - Now Choose your types of messages you plan on sending. </br> - your Website URL </br> - your Use case - Amazon doesnt like using their services for Spamming people so please donot use it for such cases.</br>- Acknowledge and Submit |
 
+**Step 2 - Creating  sender identity**
+ Once you get approval from Amazon lets go and create an Identity 
+
+| Screenshots  |  instructions   |
+| ------------ | ------------ |
+|![](./assets/images/1/../../../../images/1/verifiedIdentities.png)| - Goto SES and click on to Verified identities </br> - You have two options here , either you can use a domain or a email that you have access to. Lets rgister a domain for this demo|
+|![](./assets/images/1/../../../../images/1/domain-reg.png)| - Enter your domain |
+|![](./assets/../../images/1/DKIM.png)| - Make sure DKIM is enabled </br> - Now click create **Create Identity** |
+
+
 
 
 
