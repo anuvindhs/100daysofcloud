@@ -2,7 +2,7 @@
 <p align=”center”>
 <img width=”200" height=”200" src=./assets/images/Github-cover.jpg alt=”my banner”>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=anuvindhs)  [![Website](https://img.shields.io/website?label=Community&up_message=ictpro.co.nz&url=https%3A%2F%2Fictpro.co.nz)](https://ictpro.co.nz)  [![Website](https://img.shields.io/website?label=Dev.to&up_message=@anuvindhs&url=https%3A%2F%2Fdev.to/anuvindhs)](https://dev.to/anuvindhs) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=anuvindhs/100daysofcloud)  [![Website](https://img.shields.io/website?label=Community&up_message=ictpro.co.nz&url=https%3A%2F%2Fictpro.co.nz)](https://ictpro.co.nz)  [![Website](https://img.shields.io/website?label=Dev.to&up_message=@anuvindhs&url=https%3A%2F%2Fdev.to/anuvindhs)](https://dev.to/anuvindhs) 
 
 </p>
 
