@@ -15,8 +15,8 @@ Committing to 60 minutes of learning per day for 100 days
 |2|How to Set up an everyday alert for your **AWS usage bill**  | [dev.to](https://dev.to/anuvindhs/setup-a-everyday-alert-on-your-aws-usage-bill-3c5k), [iCTPro.co.nz](https://ictpro.co.nz/how-to-set-up-an-everyday-alert-for-your-aws-usage-bill-day-2/)|[Tweet](https://link.anuvindh.com/twitter/DAY-2-aws-budgets-tweet.html)|
 |3|The Unsung HERO **AWS Security group**| [dev.to](https://dev.to/aws-builders/unsung-hero-aws-sg-172f), [ictpro.co.nz](https://ictpro.co.nz/what-are-security-groups-the-unsung-hero/) | [Tweet](https://link.anuvindh.com/twitter/DAY-3-aws-sg-tweet.html)|
 |4| **Gluster FS** - One Click Install|[dev.to](https://dev.to/aws-builders/gluster-fs-one-click-install-3b40), [ictpro.co.nz](https://ictpro.co.nz/how-to-create-gluster-fs-on-cloud-day4/), </br>[Code Repo](https://github.com/anuvindhs/How-to-install-GlusterFS.git) | [Tweet](https://link.anuvindh.com/twitter/DAY-4-GFS-cloud.html)|
-|5|Deliver your content like Lightning Mcqueen - **Amazon CloudFront** |[dev.to](https://dev.to/aws-builders/amazon-cloudfront-an-global-edge-network-1da9), [ictpro.co.nz]() | [Tweet]()|
-|6||[dev.to](), [ictpro.co.nz]() | [Tweet](https://link.anuvindh.com/twitter/DAY-5-AMAZON-CDN-tweet.html)|
+|5|Deliver your content like Lightning Mcqueen - **Amazon CloudFront** |[dev.to](https://dev.to/aws-builders/amazon-cloudfront-an-global-edge-network-1da9), [ictpro.co.nz](https://ictpro.co.nz/how-to-deliver-content-via-content-delivery-network-amazon-cloudfront-day-5/) | [Tweet](https://link.anuvindh.com/twitter/DAY-5-AMAZON-CDN-tweet.html)|
+|6||[dev.to](), [ictpro.co.nz]() | [Tweet]()|
 |7||[dev.to](), [ictpro.co.nz]() | [Tweet]()|
 |8||[dev.to](), [ictpro.co.nz]() | [Tweet]()|
 |9||[dev.to](), [ictpro.co.nz]() | [Tweet]()|
