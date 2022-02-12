@@ -16,7 +16,7 @@ Committing to 60 minutes of learning per day for 100 days
 |3|The Unsung HERO **AWS Security group**| [dev.to](https://dev.to/aws-builders/unsung-hero-aws-sg-172f), [iCTPro.co.nz](https://iCTPro.co.nz/what-are-security-groups-the-unsung-hero/) | [Tweet](https://link.anuvindh.com/twitter/DAY-3-aws-sg-tweet.html)|
 |5|**Gluster FS**- One Click Install|[dev.to](https://dev.to/aws-builders/gluster-fs-one-click-install-3b40), [iCTPro.co.nz](https://iCTPro.co.nz/how-to-create-gluster-fs-on-cloud-day4/) </br> [CodeRepo](https://github.com/anuvindhs/How-to-install-GlusterFS.git)| [Tweet](https://link.anuvindh.com/twitter/DAY-4-GFS-cloud.html)|
 |6|Stop and Start instances using the AWS Instance Scheduler - **STOPINATOR**|[dev.to](https://dev.to/aws-builders/stop-and-start-instances-using-the-aws-instance-scheduler-stopinator-3eon), [iCTPro.co.nz](https://iCTPro.co.nz/how-to-stop-and-start-instances-using-the-aws-instance-scheduler-stopinator-100-days-of-cloud-day-6/) | [Tweet](https://link.anuvindh.com/twitter/DAY-6-ec2-stopinatortweet.html)|
-|7||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|7|Stop and Start EC2 instances at predefined times Using Lambda and EventBridge - **STOPINATOR 2.0**|[dev.to](https://dev.to/aws-builders/stop-and-start-ec2-instances-at-predefined-times-using-lambda-and-cloudwatch-stopinator-20-day-7-2b0c), [iCTPro.co.nz](https://ictpro.co.nz/) | [Tweet](https://link.anuvindh.com/twitter/DAY-7-stopinator-2-0.html)|
 |8||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
 |9||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
 |10||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
