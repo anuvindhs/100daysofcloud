@@ -19,7 +19,7 @@ Committing to 60 minutes of learning per day for 100 days
 |7|Stop and Start EC2 instances at predefined times Using Lambda and EventBridge - **STOPINATOR 2.0**|[dev.to](https://dev.to/aws-builders/stop-and-start-ec2-instances-at-predefined-times-using-lambda-and-cloudwatch-stopinator-20-day-7-2b0c), [iCTPro.co.nz](https://ictpro.co.nz/) | [Tweet](https://link.anuvindh.com/twitter/DAY-7-stopinator-2-0.html)|
 |8|**Strategies and Tools** to Perform Large-Scale Migrations: **Part I**|[dev.to](https://dev.to/aws-builders/what-are-the-strategies-and-tools-to-perform-large-scale-migrations-part-i-1hal), [iCTPro.co.nz](https://ictpro.co.nz/what-are-the-strategies-and-tools-to-perform-large-scale-migrations-part-i/) | [Tweet](https://link.anuvindh.com/twitter/DAY-8-Migration-part-1.html)|
 |9|**Strategies and Tools** to Perform Large-Scale Migrations: **Part II** |[dev.to](https://dev.to/aws-builders/what-are-the-strategies-and-tools-to-perform-large-scale-migrations-part-ii-18db), [iCTPro.co.nz](https://ictpro.co.nz/what-are-the-strategies-and-tools-to-perform-large-scale-migrations-part-ii-100-days-of-cloud-day-9/) | [Tweet](https://link.anuvindh.com/twitter/DAY-9-Migration-part-2.html)|
-|10||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|10|How to Automate AWS EC2 Instance Backups - **Amazon Data Lifecycle Manager**|[dev.to](https://dev.to/anuvindhs/how-to-automate-aws-ec2-instance-backups-amazon-data-lifecycle-manager-59mo/), [iCTPro.co.nz](https://ictpro.co.nz/how-to-automate-aws-ec2-instance-backups-amazon-data-lifecycle-manager-step-by-step/) | [Tweet](https://link.anuvindh.com/twitter/DAY-10-DLM.html)|
 |11||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
 |12||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
 |13||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
