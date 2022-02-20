@@ -20,6 +20,34 @@ Committing to 60 minutes of learning per day for 100 days
 |8|**Strategies and Tools** to Perform Large-Scale Migrations: **Part I**|[dev.to](https://dev.to/aws-builders/what-are-the-strategies-and-tools-to-perform-large-scale-migrations-part-i-1hal), [iCTPro.co.nz](https://ictpro.co.nz/what-are-the-strategies-and-tools-to-perform-large-scale-migrations-part-i/) | [Tweet](https://link.anuvindh.com/twitter/DAY-8-Migration-part-1.html)|
 |9|**Strategies and Tools** to Perform Large-Scale Migrations: **Part II** |[dev.to](https://dev.to/aws-builders/what-are-the-strategies-and-tools-to-perform-large-scale-migrations-part-ii-18db), [iCTPro.co.nz](https://ictpro.co.nz/what-are-the-strategies-and-tools-to-perform-large-scale-migrations-part-ii-100-days-of-cloud-day-9/) | [Tweet](https://link.anuvindh.com/twitter/DAY-9-Migration-part-2.html)|
 |10|How to Automate AWS EC2 Instance Backups - **Amazon Data Lifecycle Manager**|[dev.to](https://dev.to/anuvindhs/how-to-automate-aws-ec2-instance-backups-amazon-data-lifecycle-manager-59mo/), [iCTPro.co.nz](https://ictpro.co.nz/how-to-automate-aws-ec2-instance-backups-amazon-data-lifecycle-manager-step-by-step/) | [Tweet](https://link.anuvindh.com/twitter/DAY-10-DLM.html)|
-|11||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|11|Hybrid Cloud - **Install Log Agent to monitor your server** with CloudWatch|[dev.to](https://dev.to/anuvindhs/hybrid-cloud-install-log-agent-to-monitor-your-server-via-cloudwatch-2flo), [iCTPro.co.nz](https://ictpro.co.nz/how-to-monitor-your-server-with-cloudwatch-100-days-of-cloud-day-11/) | [Tweet](https://link.anuvindh.com/twitter/DAY-11-AWS-logagent-tweet.html)|
 |12||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
 |13||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|14||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|15||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|16||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|17||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|18||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|19||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|20||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|21||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|22||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|23||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|24||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|25||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|26||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|27||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|28||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|29||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|30||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|31||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|32||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|33||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|34||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|35||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|36||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|37||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|38||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|39||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|40||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|41||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
