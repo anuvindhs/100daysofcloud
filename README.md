@@ -26,7 +26,7 @@ Committing to 60 minutes of learning per day for 100 days
 |13|**DevOps- Implementing CI-CD** with AWS in 5 mins for your static website|[dev.to](https://dev.to/aws-builders/implementing-ci-cd-with-aws-in-5-mins-for-your-static-website-20ad), [iCTPro.co.nz](https://ictpro.co.nz/devops-how-to-implement-ci-cd-with-aws-in-5-mins-for-your-static-website-100-days-of-cloud-day-13/) | [Tweet](https://link.anuvindh.com/twitter/DAY-13-AWS-codebuild-tweet.html)|
 |14| Policing with **Amazon Macie** - Security & Compliance|[dev.to](https://dev.to/aws-builders/policing-with-amazon-macie-security-compliance-3pmp), [iCTPro.co.nz](https://ictpro.co.nz/how-to-secure-amazon-s3-policing-with-amazon-macie-security-compliance-100-days-of-cloud-day-14/) | [Tweet](https://link.anuvindh.com/twitter/DAY-14-AWS-macie-tweet.html)|
 |15| **Route 53** – A serverless DNS Management Solution |[dev.to](https://dev.to/aws-builders/manage-your-domain-with-route-53-5698), [iCTPro.co.nz](https://ictpro.co.nz/how-to-buy-a-domain-with-route-53-100-days-of-cloud-day-15/) | [Tweet](https://link.anuvindh.com/twitter/DAY-15-AWS-r53-tweet.html)|
-|16||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
+|16|**Amazon Inspector** - Automated and Continual vulnerability management at scale|[dev.to](https://dev.to/aws-builders/amazon-inspector-automated-and-continual-vulnerability-management-at-scale-277p), [iCTPro.co.nz](https://ictpro.co.nz/how-to-secure-amazon-ec2-with-amazon-inspector-automated-vulnerability-management-100-days-of-cloud-day-16/) | [Tweet](https://link.anuvindh.com/twitter/DAY-16-AWS-inspector-tweet.html)|
 |17||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
 |18||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
 |19||[dev.to](), [iCTPro.co.nz]() | [Tweet]()|
