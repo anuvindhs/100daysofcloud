@@ -29,26 +29,49 @@ Committing to 60 minutes of learning per day for 100 days
 |16|**Amazon Inspector** - Automated and Continual vulnerability management at scale|[dev.to](https://dev.to/aws-builders/amazon-inspector-automated-and-continual-vulnerability-management-at-scale-277p), [iCTPro.co.nz](https://ictpro.co.nz/how-to-secure-amazon-ec2-with-amazon-inspector-automated-vulnerability-management-100-days-of-cloud-day-16/) | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://link.anuvindh.com/twitter/DAY-16-AWS-inspector-tweet.html)|
 |17|**GFS-Moo** - Script For **Moodle, GlusterFS, LAMP on Cloud**|[dev.to](https://dev.to/aws-builders/gfs-moo-moodle-glusterfs-lamp-on-cloud-3m0i), [iCTPro.co.nz](https://ictpro.co.nz/gfs-moo-install-moodle-glusterfs-lamp-on-cloud-100-days-of-cloud-day-17/) , [Github](https://github.com/anuvindhs/GFS-Moo)|[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://dev.to/aws-builders/gfs-moo-moodle-glusterfs-lamp-on-cloud-3m0i)|
 |18|**AWS Fargate** - A Serverless Compute engine for containers|[dev.to](https://dev.to/aws-builders/aws-fargate-a-serverless-compute-engine-for-containers-5330), [iCTPro.co.nz](https://ictpro.co.nz/aws-fargate-a-serverless-compute-engine-for-containers%e2%80%8b/) | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://dev.to/aws-builders/aws-fargate-a-serverless-compute-engine-for-containers-5330)|
-|19||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()|
-|20||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()|
-|21||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()|
-|22||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()|
-|23||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()|
-|24||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()|
-|25||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()|
-|26||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()|
-|27||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()|
-|28||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()|
-|29||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()|
-|30||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()|
-|31||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()|
-|32||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()|
-|33||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()|
-|34||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()|
-|35||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()|
-|36||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()|
-|37||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()|
-|38||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()|
-|39||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()|
-|40||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()|
-|41||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()|
+|19|3 Ways to **Geo-Restrict 🚫** your App|[dev.to](https://dev.to/aws-builders/3-ways-to-geo-restrict-your-app-1p9e), [iCTPro.co.nz](https://ictpro.co.nz/3-ways-to-geo-restrict-your-app/) | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://ictpro.co.nz/3-ways-to-geo-restrict-your-app/)|
+|20| Building your first **e-Learning Platform** for free|[dev.to](https://dev.to/aws-builders/building-your-first-e-learning-platform-for-free-488o), [iCTPro.co.nz](https://ictpro.co.nz/building-your-first-e-learning-platform-for-free-100-days-of-cloud-day-20/) | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://ictpro.co.nz/building-your-first-e-learning-platform-for-free-100-days-of-cloud-day-20/)|
+|21|All about **Terraform Modules** - Create & Publish your own modules|[dev.to](https://dev.to/aws-builders/all-about-terraform-modules-create-publish-your-own-modules-502b), [iCTPro.co.nz](https://ictpro.co.nz/all-about-terraform-modules-create-publish-your-own-modules-100-days-of-cloud-day-21/) | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://ictpro.co.nz/all-about-terraform-modules-create-publish-your-own-modules-100-days-of-cloud-day-21/)|
+|22||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|23||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|24||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|25||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|26||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|27||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|28||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|29||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|30||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|31||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|32||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|33||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|34||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|35||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|36||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|37||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|38||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|39||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|40||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|41||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|42||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|43||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|44||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|45||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|46||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|47||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|48||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|49||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|50||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|51||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|52||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|53||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|54||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|55||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|56||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|57||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|58||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|59||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|60||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|61||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|62||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|63||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|64||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
