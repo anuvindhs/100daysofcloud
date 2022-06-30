@@ -1,6 +1,6 @@
 
 <p align="center">
-<img width=”200" height=”200" src=https://raw.githubusercontent.com/anuvindhs/100daysofcloud/main/assets/images/100daysofcloud.jpg alt=”my banner”>
+<img width=”200" height=”200" src=./assets/images/Cover-1.jpg alt=”my banner”>
 </p>
 
 <div align="center">
