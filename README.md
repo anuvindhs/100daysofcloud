@@ -1,6 +1,6 @@
 
 <p align="center">
-<img width=”200" height=”200" src=./assets/images/100daysofcloud-2.jpg alt=”my banner”>
+<img width=”200" height=”200" src=https://raw.githubusercontent.com/anuvindhs/100daysofcloud/main/assets/images/100daysofcloud-2.jpg alt=”my banner”>
 </p>
 
 <div align="center">
@@ -48,7 +48,7 @@ Committing to 60 minutes of learning per day for 100 days
 |32|**Ansible For Everyone** - Part 1 **Introduction**|[dev.to](https://dev.to/aws-builders/ansible-for-everyone-part-1-5998), [iCTPro.co.nz](https://ictpro.co.nz/ansible-for-everyone-part-1-100-days-of-cloud-day-32/) | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://ictpro.co.nz/?s=[Deploy+Containerized+Applications+with+ECS+-+Day+Thirty+One](https://ictpro.co.nz/ansible-for-everyone-part-1-100-days-of-cloud-day-32/))|
 |33|**Ansible For Everyone** - Part 2 **Setup Ansible infrastructure**|[dev.to](https://dev.to/aws-builders/ansible-for-everyonepractical-part-2-58a5), [iCTPro.co.nz](https://ictpro.co.nz/how-to-setup-ansible-infrastructure-ansible-for-everyone-part-2-100-days-of-cloud-day-33/) | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://ictpro.co.nz/how-to-setup-ansible-infrastructure-ansible-for-everyone-part-2-100-days-of-cloud-day-33/)|
 |34|**Ansible For Everyone** - Part 3 **Playbooks**|[dev.to](https://dev.to/aws-builders/ansible-for-everyone-ansible-playbooks-part-3-2dgj), [iCTPro.co.nz](https://ictpro.co.nz/ansible-for-everyone-ansible-playbooks-part-3-100-days-of-cloud-day-34/) | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://ictpro.co.nz/ansible-for-everyone-ansible-playbooks-part-3-100-days-of-cloud-day-34/)|
-|35||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+|35|**DevOps** on Amazon Web Services (AWS)|[dev.to](https://dev.to/aws-builders/devops-on-amazon-web-services-aws-2eln), [iCTPro.co.nz](https://ictpro.co.nz/devops-on-amazon-web-services-aws-100-days-of-cloud-day-35/) | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://ictpro.co.nz/devops-on-amazon-web-services-aws-100-days-of-cloud-day-35/)|
 |36||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
 |37||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
 |38||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
