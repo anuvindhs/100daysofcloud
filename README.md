@@ -3,6 +3,7 @@
 <img src=https://raw.githubusercontent.com/anuvindhs/100daysofcloud/main/assets/images/Cover-4.png alt=”my banner”>
 </p>
 
+
 <div align="center">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anuvindhs/100daysofcloud)  [![Website](https://img.shields.io/website?label=Community&up_message=iCTPro.co.nz&url=https%3A%2F%2FiCTPro.co.nz)](https://iCTPro.co.nz)  [![Website](https://img.shields.io/website?label=Dev.to&up_message=@anuvindhs&url=https%3A%2F%2Fdev.to/anuvindhs)](https://dev.to/anuvindhs) 
@@ -14,8 +15,8 @@
 Committing to 60 minutes of learning per day for 100 days 
 
 </div> 
-<p style="align:center">
 
+<p align="center">
 
 |  Days | Topic  | Read ON |Tweet the blog|
 | ------------  | ------------ | ------------ | ------------ |
