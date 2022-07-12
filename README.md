@@ -1,8 +1,6 @@
 
-<p align="center">
-<img src=https://raw.githubusercontent.com/anuvindhs/100daysofcloud/main/assets/images/Cover-4.png alt=”my banner”>
-</p>
 
+ [![Cover](https://raw.githubusercontent.com/anuvindhs/100daysofcloud/main/assets/images/Cover-4.png)](https://github.com/anuvindhs/100daysofcloud)
 
 <div align="center">
 
