@@ -13,7 +13,7 @@
 
 Committing to 60 minutes of learning per day for 100 days 
 
-</div>
+
 
 
 |  Days | Topic  | Read ON |Tweet the blog|
@@ -118,3 +118,5 @@ Committing to 60 minutes of learning per day for 100 days
 |98||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
 |99||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
 |100||[dev.to](), [iCTPro.co.nz]() | [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=)|
+
+</div>
